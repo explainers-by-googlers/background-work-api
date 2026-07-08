@@ -236,9 +236,9 @@ We'd particularly like feedback on:
 
 ## References
 
-- [Page Lifecycle API](https://wicg.github.io/page-lifecycle/) ·
-  [Background Fetch](https://wicg.github.io/background-fetch/) ·
-  [Background Sync](https://wicg.github.io/background-sync/spec/) ·
-  [Screen Wake Lock](https://www.w3.org/TR/screen-wake-lock/) ·
-  [Permissions API](https://www.w3.org/TR/permissions/) ·
-  [Permissions Policy](https://www.w3.org/TR/permissions-policy/) ·
+- [Page Lifecycle API](https://wicg.github.io/page-lifecycle/)
+- [Background Fetch](https://wicg.github.io/background-fetch/)
+- [Background Sync](https://wicg.github.io/background-sync/spec/)
+- [Screen Wake Lock](https://www.w3.org/TR/screen-wake-lock/)
+- [Permissions API](https://www.w3.org/TR/permissions/)
+- [Permissions Policy](https://www.w3.org/TR/permissions-policy/)
